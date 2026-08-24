@@ -1,0 +1,41 @@
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\WeatherWhisperer.exe
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\WeatherWhisperer.deps.json
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\WeatherWhisperer.runtimeconfig.json
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\WeatherWhisperer.dll
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\WeatherWhisperer.pdb
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.csproj.AssemblyReference.cache
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.Form1.resources
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.csproj.GenerateResource.cache
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.dll
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\refint\WeatherWhisperer.dll
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.pdb
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.genruntimeconfig.cache
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\ref\WeatherWhisperer.dll
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.Properties.Resources.resources
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\yusuf\Desktop\C# Dersleri\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.csproj.CopyComplete
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\WeatherWhisperer.exe
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\WeatherWhisperer.deps.json
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\WeatherWhisperer.runtimeconfig.json
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\WeatherWhisperer.dll
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\WeatherWhisperer.pdb
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.csproj.AssemblyReference.cache
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.Form1.resources
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.Properties.Resources.resources
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.csproj.GenerateResource.cache
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.csproj.CopyComplete
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.dll
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\refint\WeatherWhisperer.dll
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.pdb
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.genruntimeconfig.cache
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\ref\WeatherWhisperer.dll
+C:\Users\yusuf\Desktop\C#\Kaynak_Kodları\WeatherWhisperer\WeatherWhisperer\obj\Debug\net6.0-windows\WeatherWhisperer.settingsform.resources
